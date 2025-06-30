@@ -22,7 +22,7 @@ Performance scores vary by job title (box plot), with leadership roles showing h
 ## Hiring Trends
 A line plot of hires over time shows recruitment patterns, indicating seasonal or yearly fluctuations.
 
-##Conclusion
+## Conclusion
 The analysis reveals a diverse workforce with varied compensation and performance profiles. Tenure weakly correlates with salary, suggesting other factors (e.g., role, performance) drive pay. Targeted salary increases reward high performers, while department and job title analyses highlight resource allocation and diversity gaps. Performance varies by role and age, and hiring trends suggest strategic recruitment cycles.
 
 ## Recommendations
