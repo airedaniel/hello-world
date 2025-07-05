@@ -1,4 +1,4 @@
-The analysis of the "Extended Employee Performance and Productivity  dataset examines employee performance, compensation, and workforce dynamics.
+# The analysis of the "Extended Employee Performance and Productivity  dataset examines employee performance, compensation, and workforce dynamics.
 
 ## Data Overview
 The dataset, with no missing values, includes attributes like Monthly_Salary ($3,850–$9,000), Hire_Date, Work_Hours_Per_Week, Years_At_Company (0–10 years), Employee_Satisfaction_Score (1–5), Projects_Handled (0–50), Department, Job_Title, Gender, Age, Education_Level, and Performance_Score.
